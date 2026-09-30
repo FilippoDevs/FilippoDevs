@@ -13,11 +13,6 @@
 </picture>
 <img src="https://i.imgur.com/NcdUETa.png" alt="Banner" width="100%" />
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=FilippoDevs&theme=prussian&radius=10" alt="FilippoDevs's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 ### Programming Languages
